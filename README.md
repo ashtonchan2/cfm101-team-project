@@ -2,7 +2,7 @@
 A Python program that takes a list of stock tickers and generates a portfolio based on our analysis of statistical measurements, and portfolio theory. Based on the CFM101 course project and competition.
 
 ## Summary ##
-The generator first takes a list of stock tickers, and then... 
+The generator first takes a list of stock tickers, and then:
 * Filters the tickers based on predetermined characteristics (e.g. specific market, minimum number of monthly trading days)
 * Obtains the daily percentage returns of each stock's closing prices on a specific time interval
 * Calculates measures such as correlation and beta to determine individual and portfolio volatility 
