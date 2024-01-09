@@ -8,6 +8,12 @@ The generator first takes a list of stock tickers, and then...
 * Calculates measures such as correlation and beta to determine individual and portfolio volatility 
 * Tests different strategies by calculating deviation measures to determine the most volatile portfolio  
 
+Notable Python libraries utilized include:
+* YFinance
+* NumPy
+* pandas
+* Matplotlib
+
 ## Competition ##
 The length of the competition was 3 days. Our generator created a portfolio that yielded a ~3% return, which placed us as the runner-up in the project competition!
 
