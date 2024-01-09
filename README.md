@@ -17,4 +17,4 @@ Notable Python libraries utilized include:
 ## Competition ##
 The length of the competition was 3 days. Our generator created a portfolio that yielded a ~3% return, which placed us as the runner-up in the project competition!
 
-*Created in collaboration with my team members Bodhana Sivagurunathan & Johnson Xu.*
+*Authors: Bodhana Sivagurunathan, Ashton Chan, Johnson Xu*
