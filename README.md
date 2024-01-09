@@ -6,7 +6,7 @@ The generator first takes a list of stock tickers, and then:
 * Filters the tickers based on predetermined characteristics (e.g. specific market, minimum number of monthly trading days)
 * Obtains the daily percentage returns of each stock's closing prices on a specific time interval
 * Calculates measures such as correlation and beta to determine individual and portfolio volatility 
-* Tests different strategies by calculating deviation measures to determine the most volatile portfolio  
+* Tests different strategies by calculating measures of deviation to determine the most volatile portfolio  
 
 Notable Python libraries utilized include:
 * YFinance
